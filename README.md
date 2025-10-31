@@ -1,6 +1,3 @@
-# music-quiz-app
-training game to improve transcription ability
-
 # 🎵 Music Quiz App
 
 An interactive **theory quiz and ear-training tool**.  
@@ -22,6 +19,7 @@ This project demonstrates **clean front-end logic**, **DOM manipulation**, and *
   - 40% average response speed  
 - **Auto mode** for passive ear training
 - 💾 Saves scores and displays top 10 per mode and overall
+
 Using:
   - **HTML**
   - **CSS**
