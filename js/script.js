@@ -3,7 +3,7 @@
 --------------------- */
 const NOTES = [["C"],["C#"],["D"],["Eb"],["E"],["F"],["F#"],["G"],["Ab"],["A"],["Bb"],["B"]];
 const DEGREE_MAP = {"1":0,"♭2":1,"2":2,"♭3":3,"3":4,"4":5,"♯4/♭5":6,"5":7,"♭6":8,"6":9,"♭7":10,"7":11};
-const DEGREES = Object.keys(DEGREE_MAP);
+const DEGREES = Object.keys(DEGREE_MAP).filter(d => d !== "1");
 const FRETS_STRINGS = ["C","B","G","E","A","D"];
 const FRET_MIN = 1, FRET_MAX = 24;
 
