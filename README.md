@@ -10,19 +10,22 @@ This project demonstrates **clean front-end logic**, **DOM manipulation**, and *
 
 ---
 
-## ✨ Features
+## Features
 
-- 🎧 **Three quiz modes**
+- **Three quiz modes**
   - *Find*: Identify which key contains a given note-degree relationship  
   - *Move*: Find the note corresponding to an interval in a given key  
   - *Fret*: Identify fretboard notes on guitar strings  
-- 🕒 **Timed rounds** with adjustable limits (10s, 20s, 30s)
-- 🧮 **Leaderboard** system stored locally with weighted scoring:
+- **Timed rounds** with adjustable limits (10s, 20s, 30s)
+- **Leaderboard** system stored locally with weighted scoring:
   - 60% accuracy  
   - 40% average response speed  
-- 📊 **Auto mode** for passive ear training
+- **Auto mode** for passive ear training
 - 💾 Saves scores and displays top 10 per mode and overall
-- ⚡ Built purely with **HTML, CSS, and JavaScript** 
+Using:
+  - **HTML**
+  - **CSS**
+  - **JavaScript**
 
 ---
 
